@@ -111,7 +111,7 @@ header .navbar ul li a:hover::before {
 
 .home {
     min-height: 100vh;
-    background-image: url("images/monu.png");
+    background-image: url("images/backg.jpg");
     background-size: cover;
     background-position: center;
     float: left;
@@ -150,7 +150,7 @@ header .navbar ul li a:hover::before {
 
 .home .home-text h3 {
     font-size: 60px;
-    color: #f3971b;
+    color: #f31b1b;
     margin: 15px 0px 0px;
     font-weight: 700;
     animation: slideRight 1.5s ease;
