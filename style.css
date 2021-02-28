@@ -111,7 +111,7 @@ header .navbar ul li a:hover::before {
 
 .home {
     min-height: 100vh;
-    background-image: url("images/backg.jpg");
+    background-image: url("/images/back.jpg");
     background-size: cover;
     background-position: center;
     float: left;
